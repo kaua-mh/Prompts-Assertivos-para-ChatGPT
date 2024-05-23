@@ -1,0 +1,1 @@
+# Prompts-Assertivos-para-ChatGPT
