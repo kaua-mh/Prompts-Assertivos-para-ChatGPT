@@ -41,7 +41,6 @@
 
 `{REGRAS}`\
 `> Siga o {ROTEIRO} acima e substitua os elementos entre [ ]`\
-`Por aqueles listados em {RESUMO} acima`
-`> Mantenha o tom e ritmo, mas reescreva as palavras em {ROTEIRO} para que`\
-`seja diferente do original, expandindo ou mudando conforme necessário.`\
+`Por aqueles listados em {RESUMO} acima`\
+`> Mantenha o tom e ritmo, mas reescreva as palavras em {ROTEIRO} para que seja diferente do original, expandindo ou mudando conforme necessário.`\
 `> Use analogias simples e hipérboles`
